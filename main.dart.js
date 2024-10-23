@@ -85925,7 +85925,7 @@ A.SH.prototype={
 h2(){var s=0,r=A.G(t.H),q=this,p
 var $async$h2=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:s=2
-return A.y(A.aK1(A.dk("http://frog01.mikr.us:41440/optcg/cards/?set_id=op01",0,null)),$async$h2)
+return A.y(A.aK1(A.dk("http://194.164.50.133:41440/optcg/cards/?set_id=op01",0,null)),$async$h2)
 case 2:p=b
 if(p.b===200)q.aa(new A.anU(q,p))
 else throw A.c(A.cU("Failed to load"))
@@ -86172,7 +86172,7 @@ A.Y7.prototype={
 h2(){var s=0,r=A.G(t.H),q=this,p
 var $async$h2=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:s=2
-return A.y(A.aK1(A.dk("http://frog01.mikr.us:41440/optcg/cards/?set_id="+q.a.c,0,null)),$async$h2)
+return A.y(A.aK1(A.dk("http://194.164.50.133:41440/optcg/cards/?set_id="+q.a.c,0,null)),$async$h2)
 case 2:p=b
 if(p.b===200)q.aa(new A.auy(q,p))
 else throw A.c(A.cU("Failed to load"))
